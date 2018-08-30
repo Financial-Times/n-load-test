@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const autocannon = require('autocannon');
 
 const fs = require('fs')
